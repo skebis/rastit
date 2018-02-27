@@ -1,0 +1,21 @@
+ul {
+	min-height: 500px;
+}
+
+#map {
+	width: 50%;
+	float: left;
+}
+
+#joukkueet, #kartalla {
+	width: 25%;
+	float: right;
+}
+
+#joukkueet p, #kartalla p{
+	font-size: 30px;
+}
+
+#joukkuelista, #kartallalista, #teksti {
+    outline: 2px solid black;
+}
